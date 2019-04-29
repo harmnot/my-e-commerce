@@ -2,7 +2,7 @@
 
 
 
-demo live : http://ecommerce.cornhoo.us
+Live DEMO : http://ecommerce.cornhoo.us
 
 API documents: 
 
